@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "617c069ad3531b0907344709"
+  },
+  "title": "Node.js v16.13.0 'Gallium' (LTS) Release",
+  "tweet": "Node.js v16.13.0 'Gallium' (LTS)Release",
+  "createdAt": {
+    "$date": "2021-10-29T14:35:06.882Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-29T15:56:37.707Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c06e1d3531b090734470c"
+  },
+  "title": "JavaScript conversations from Oracle ",
+  "tweet": "DevRel http://developer.oracle.com/team/",
+  "createdAt": {
+    "$date": "2021-10-29T14:36:17.681Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-29T14:36:17.681Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c072ed3531b090734470f"
+  },
+  "title": "Do TypeScript without TypeScript: ",
+  "tweet": "https://youtu.be/xLDVfBUgD8U?t=114 #video",
+  "createdAt": {
+    "$date": "2021-10-29T14:37:34.648Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-29T14:37:34.648Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "617c07e8d3531b0907344712"
+  },
+  "title": "To Every Programmer ",
+  "tweet": "You should care about the quality of their code ",
+  "createdAt": {
+    "$date": "2021-10-29T14:40:40.791Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-29T14:40:40.791Z"
+  },
+  "__v": 0
+}]
