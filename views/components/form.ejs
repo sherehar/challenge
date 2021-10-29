@@ -1,0 +1,17 @@
+<form action="<%= paction %>" method="POST" class="container">
+    <div class="mb-3">
+        <label for="title" class="form-label">Title</label>
+        <input name="title" type="text" class="form-control" id="title" aria-describedby="Enter The Title" value="<%= atitle %>">
+        <% if(errors && errors.title){ %>
+            <div class="cantainer"><span class="warning"><%= errors.title %></span></div>
+        <% } %>
+    </div>
+    <div class="mb-3">
+        <label for="tweet" class="form-label">Tweet</label>
+        <textarea name="tweet" class="form-control" id="tweet" rows="5"><%= atweet %></textarea>
+        <% if(errors && errors.tweet){ %>
+            <div class="cantainer"><span class="warning"><%= errors.tweet %></span></div>
+        <% } %>
+    </div>
+    <input type="submit" class="btn btn-outline-primary" value="Submit">
+</form>
