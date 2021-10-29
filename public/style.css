@@ -1,0 +1,47 @@
+body{
+    background-color:whitesmoke;
+    padding: 20px;
+}
+h1,h2{
+    text-align: center;
+    color:black;
+}
+h3{
+    margin:10px; 
+}
+.rtitle {
+    text-transform: capitalize;
+    width: 90%;
+    margin:10px;
+}
+.rtweet {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+    margin:10px;
+}
+a {
+    text-decoration: none;
+    color: #0792c0;
+}
+.card{
+    margin:10px; 
+    border: none;
+    background-color:white;
+    width: 90%;
+}
+.card-text{
+    letter-spacing: 1px;
+    margin:10px;
+}
+.content{
+    padding: 20px;
+}
+.warning{
+    background-color: tomato;
+    color: white;
+    padding: 5px 15px;
+    display: inline-block;
+    margin: 5px;
+    box-shadow: 2px 2px 5px 2px rgba(58, 58, 58, 0.4);
+}
